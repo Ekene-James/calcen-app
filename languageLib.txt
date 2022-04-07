@@ -1,0 +1,386 @@
+-text : Dashboard
+-translation: 
+
+-text : Users
+-translation: 
+
+-text : Operators
+-translation: 
+
+-text : Users
+-translation: 
+
+-text : Settings
+-translation: 
+
+-text : Logout
+-translation: 
+
+-text : Admin Users
+-translation: 
+
+-text : Groups
+-translation: 
+
+-text : First Name
+-translation: 
+
+-text : Last Name
+-translation: 
+
+-text : email
+-translation: 
+
+-text :Initial password
+-translation: 
+
+-text : 6-20 Characters. Admin User can change the password later
+-translation: 
+
+-text : Confirm password
+-translation: 
+
+-text : Role
+-translation: 
+
+-text : Add
+-translation: 
+
+-text : Cancel
+-translation: 
+
+-text : Manager
+-translation: 
+
+-text : Editor
+-translation: 
+
+-text : Viewer
+-translation: 
+
+-text : Choose Role
+-translation: 
+
+-text : Display Name
+-translation: 
+
+-text : This name will be shown when incoming call
+-translation: 
+
+-text : Operator ID
+-translation: 
+
+-text : This is unique id for operator which is assigned automatically by system. Operator need this ID and password to login operator.
+-translation: 
+
+-text : External Number
+-translation: 
+
+-text : This is unique external number for operator. This is given by system automatically and can not change.
+-translation: 
+
+-text : 6-20 Characters. User can change the password later
+-translation: 
+
+-text : Confirm password
+-translation: 
+
+-text : Name
+-translation: 
+
+-text : Price
+-translation: 
+
+-text : Max. Number of users
+-translation: 
+
+-text : Max. Number of Operators
+-translation: 
+
+-text : Room Number
+-translation: 
+
+-text : Display Name
+-translation: 
+
+-text : This name will be shown when incoming call
+-translation: 
+
+-text : User ID
+-translation: 
+
+-text : This is unique id for user which is assigned automatically by system. User need this ID and password to login user mobile app.
+-translation: 
+
+-text : Extension Number
+-translation: 
+
+-text : Group Name
+-translation: 
+
+-text : Group subdomain
+-translation: 
+
+-text : This subdomain will be used for group's portal URL
+-translation: 
+
+-text : Group Email address
+-translation: 
+
+-text : Group ID
+-translation: 
+
+-text : Main External number
+-translation: 
+
+-text : This is unique external number for group. This is given by system automatically and can not change
+-translation: 
+
+-text : Plan
+-translation: 
+
+-text : Choose Plan
+-translation: 
+
+-text : Go Back
+-translation: 
+
+-text : Group Detail
+-translation: 
+
+-text : Group Admin User
+-translation: 
+
+-text : Usage
+-translation: 
+
+-text : Extension
+-translation: 
+
+-text : Number of calls
+-translation: 
+
+-text : Duration of calls
+-translation: 
+
+-text : External
+-translation: 
+
+-text : Setting Name
+-translation: 
+
+-text : Target day
+-translation: 
+
+-text : Target time
+-translation: 
+
+-text : time
+-translation: 
+
+-text : Start
+-translation: 
+
+-text : End
+-translation: 
+
+-text : Target period
+-translation: 
+
+-text : Process
+-translation: 
+
+-text : Operator Response
+-translation: 
+
+-text : answering machine (with voice message)
+-translation: 
+
+-text : answering machine (without voice message)
+-translation: 
+
+-text : Answering machine audio file
+-translation: 
+
+-text : ID
+-translation: 
+
+-text : Setting Day
+-translation: 
+
+-text : Operator main external number
+-translation: 
+
+-text : Automatically give by sysytem for group. Can not change. Operator can call to external number with this number
+-translation: 
+
+-text : Bussiness hour settings
+-translation: 
+
+-text : Add New
+-translation: 
+
+-text : Mon
+-translation: 
+
+-text : Tue
+-translation: 
+
+-text : Weds
+-translation: 
+
+-text : Thurs
+-translation: 
+
+-text : Fri
+-translation: 
+
+-text : Sat
+-translation: 
+
+-text : Sun
+-translation: 
+
+-text : inactive
+-translation: 
+
+-text : active
+-translation: 
+
+-text : Status
+-translation: 
+
+-text : Subdomain
+-translation: 
+
+-text : Registered
+-translation: 
+
+-text : Groups
+-translation: 
+
+-text : Price (monthly)
+-translation: 
+
+-text : Max. number of users
+-translation: 
+
+-text : Max. number of operators
+-translation: 
+
+-text : Plan Settings'
+-translation: 
+
+-text : Delete
+-translation: 
+
+-text : last logged in
+-translation: 
+
+-text : Incoming date
+-translation: 
+
+-text : Talk time
+-translation: 
+
+-text : Voice message
+-translation: 
+
+-text : Response details
+-translation: 
+
+-text : Call history
+-translation: 
+
+-text : Content
+-translation: 
+
+-text : Item
+-translation: 
+
+-text : Date Time
+-translation: 
+
+-text : Call From
+-translation: 
+
+-text : User Name
+-translation: 
+
+-text : Talk Time
+-translation: 
+
+-text : Call Status
+-translation: 
+
+-text : Call Type
+-translation: 
+
+-text : Operator Name
+-translation: 
+
+-text : Recording
+-translation: 
+
+-text : Call History
+-translation: 
+
+-text : Room No
+-translation: 
+
+-text : User ID
+-translation: 
+
+-text : Number of Groups
+-translation: 
+
+-text : Number of Operators
+-translation: 
+
+-text : Add new Group
+-translation: 
+
+-text : Add admin user for Group
+-translation: 
+
+-text : Edit Group
+-translation: 
+
+-text : Edit admin user for Group
+-translation: 
+
+-text : Add Plan
+-translation: 
+
+-text : Edit Plan
+-translation: 
+
+-text : Admin users
+-translation: 
+
+-text : Add new admin user
+-translation: 
+
+-text : Edit new admin user
+-translation: 
+
+-text : Number of Users
+-translation: 
+
+-text : Number of Operators
+-translation: 
+
+-text : Add New Operator
+-translation: 
+
+-text : Edit Operator
+-translation: 
+
+-text : Setting business hours
+-translation: 
+
+-text : Add New Use
+-translation: 
+
+-text : Edit User
+-translation: 
